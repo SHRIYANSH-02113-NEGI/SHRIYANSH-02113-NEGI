@@ -1,99 +1,97 @@
-<h1 align="center">Hi 👋, I'm Shriyansh Negi</h1>
-<h3 align="center">Final-Year B.Tech CSE Student | Software & Systems Enthusiast</h3>
+<h1 align="center">Hi 👋 I'm Shriyansh Negi</h1>
+<h3 align="center">Final-Year B.Tech CSE | Software Engineering • Systems • Automation</h3>
 
 <p align="center">
-  <a href="https://instagram.com/shriyansh._.negi">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/shriyansh-negi-4260a7271/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shriyansh02113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
 
-I’m a **final-year B.Tech Computer Science student at Graphic Era Hill University**, driven by curiosity for how software operates across different layers—from **low-level system interactions** to **clean, user-facing interfaces**.
+I’m a **final-year B.Tech Computer Science student at Graphic Era Hill University** who enjoys working close to how systems actually function—whether that’s **automating business logic**, **designing clean interfaces**, or **handling low-level file operations**.
 
-I enjoy building **practical, problem-driven solutions**, including **business logic automation, CRM systems, file recovery tools, and productivity-focused applications**. My experience as a **Salesforce Developer Intern** gave me hands-on exposure to **production-ready development**, **structured data models**, and **workflow-centric systems used in real organizations**.
+As a **Salesforce Developer Intern**, I worked on **production-ready components**, **structured data models**, and **workflow-based solutions**, gaining firsthand experience with software used in real organizational environments.
 
-Beyond Salesforce, I’ve explored **front-end development, desktop applications, and system-level file handling**, helping me develop a balanced perspective between **usability, performance, and reliability**.
-
-> I believe real learning rarely comes from code that works on the first try.  
-> It happens while debugging—understanding errors, tracing their root causes, and fixing them through documentation and careful reasoning.
-
-I’m always eager to **learn, experiment, and refine my skills** by building software that solves real-world problems.
+I believe strong engineering skills are built through **debugging, failure analysis, and documentation-driven learning**, not just writing code that works on the first attempt.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-**Languages & Core**
+### 🔹 CRM Automation System
+**Tech:** Salesforce, Apex, Lightning Web Components  
+- Automated customer workflows and business logic  
+- Designed structured data models aligned with real business processes  
+- Focused on maintainability and scalability  
+
+### 🔹 Deleted File Recovery Tool
+**Tech:** C, FAT32 / NTFS Concepts  
+- Built a low-level file recovery utility  
+- Parsed file system structures and metadata  
+- Gained hands-on experience with system-level programming  
+
+### 🔹 Productivity Desktop Applications
+**Tech:** Python, Tkinter  
+- Developed task and utility-based desktop tools  
+- Emphasis on usability and lightweight design  
+
+### 🔹 Web & Front-End Projects
+**Tech:** HTML, CSS, JavaScript, React  
+- Built responsive user interfaces  
+- Focused on clean UI and modular component design  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 - C, C++, Java, Python, JavaScript
 
-**Web & Front-End**
+### Web & UI
 - HTML5, CSS3, React, React Hook Form
 
-**Databases & Cloud**
+### Databases & Cloud
 - MongoDB, MySQL, Google Cloud
 
-**Data & Tools**
+### Tools & Libraries
+- Git, GitHub  
 - NumPy, Pandas, Matplotlib  
-- Git, GitHub
-
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHRIYANSH-02113-NEGI&theme=default_repocard&show_icons=true&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHRIYANSH-02113-NEGI&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SHRIYANSH-02113-NEGI&theme=default_repocard&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRIYANSH-02113-NEGI&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIYANSH-02113-NEGI&layout=compact&theme=default_repocard" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIYANSH-02113-NEGI&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Consistency
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHRIYANSH-02113-NEGI&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SHRIYANSH-02113-NEGI&theme=onedark&no-frame=true"/>
 </p>
 
 ---
 
-## ✍️ Developer Quote
+## 💡 Engineering Philosophy
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
-</p>
-
----
-
-## 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHRIYANSH-02113-NEGI&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+> “The most valuable lessons in software development come from tracing errors,  
+> understanding their causes, and fixing them through patience and documentation.”
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SHRIYANSH-02113-NEGI&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=SHRIYANSH-02113-NEGI&color=6"/>
 </p>
