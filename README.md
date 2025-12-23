@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Shriyansh Negi</h1>
+<h1 align="center">Hi I'm Shriyansh Negi</h1>
 <h3 align="center">Final-Year B.Tech CSE | Software Engineering • Systems • Automation</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m a **final-year B.Tech Computer Science student at Graphic Era Hill University** who enjoys working close to how systems actually function—whether that’s **automating business logic**, **designing clean interfaces**, or **handling low-level file operations**.
 
@@ -22,7 +22,7 @@ I believe strong engineering skills are built through **debugging, failure analy
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 CRM Automation System
 **Tech:** Salesforce, Apex, Lightning Web Components  
@@ -48,7 +48,7 @@ I believe strong engineering skills are built through **debugging, failure analy
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 - C, C++, Java, Python, JavaScript
@@ -65,7 +65,7 @@ I believe strong engineering skills are built through **debugging, failure analy
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHRIYANSH-02113-NEGI&show_icons=true&theme=tokyonight"/>
@@ -77,7 +77,7 @@ I believe strong engineering skills are built through **debugging, failure analy
 
 ---
 
-## 🏆 Achievements & Consistency
+##  Achievements & Consistency
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SHRIYANSH-02113-NEGI&theme=onedark&no-frame=true"/>
@@ -85,7 +85,7 @@ I believe strong engineering skills are built through **debugging, failure analy
 
 ---
 
-## 💡 Engineering Philosophy
+##  Engineering Philosophy
 
 > “The most valuable lessons in software development come from tracing errors,  
 > understanding their causes, and fixing them through patience and documentation.”
