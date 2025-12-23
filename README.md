@@ -76,12 +76,11 @@ I believe strong engineering skills are built through **debugging, failure analy
 </p>
 
 ---
+## 🧩 Coding Practice (LeetCode)
 
-##  Achievements & Consistency
+> Consistent daily problem solving with GitHub auto-sync
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHRIYANSH-02113-NEGI&theme=onedark&no-frame=true"/>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shriyansh_Negi?theme=dark&font=Baloo&ext=contest)
 
 ---
 
