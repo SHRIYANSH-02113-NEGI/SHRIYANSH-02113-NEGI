@@ -16,10 +16,7 @@ Final-Year B.Tech CSE • Software Engineering • Systems • Automation
 
 ##  About Me
 
--  Final-year **B.Tech Computer Science** student at **Graphic Era Hill University**
--  Interested in **software engineering, system internals, and automation**
--  Enjoy working close to how systems actually function
--  Strong believer in **debugging, failure analysis, and documentation-driven learning**
+I’m a **final-year B.Tech Computer Science student at Graphic Era Hill University** who enjoys working close to how systems actually function—whether that’s **automating business logic**, **designing clean interfaces**, or **handling low-level file operations**. As a **Salesforce Developer Intern**, I worked on **production-ready components**, **structured data models**, and **workflow-based solutions**, gaining firsthand experience with software used in real organizational environments. I believe strong engineering skills are built through **debugging, failure analysis, and documentation-driven learning**, not just writing code that works on the first attempt.
 
 **Salesforce Developer Intern**
 - Built **production-ready components**
